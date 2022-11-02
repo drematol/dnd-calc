@@ -8,6 +8,6 @@ The new spreadsheet can be taken outside of the folder and be further edited
 
 # personal notes
 this is my first project on git hub so please forgive any formatting mistakes
-i wanted to practice automaiton in python and i ended up with this idea
+i wanted to practice automation in python and i ended up with this idea
 more information about using the program can be found in the read me inside of the dnd calculator folder and      
 thank you for checking out my program :) -drematol
