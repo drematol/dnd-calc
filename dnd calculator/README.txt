@@ -2,7 +2,7 @@ This is a calculator made for getting derived statistics for a dnd character
 It uses openpyxl and .xlsx spreadsheets to create a light weight program that can generate a new spreadsheet
 The new spreadsheet can be taken outside of the folder and be further edited
 
-to generate a new character sheet edit values inside of character.xlsx then run the exe
+to generate a new character sheet edit values inside of character.xlsx (make sure to save) then run the exe
 after that your new character sheet should be automatically created in the same folder based on the specifications in the character spreadsheet
 feel free to remove your new spreadsheet from the folder and put anywhere else on your computer
 please do not remove character.xlsx itself because it is needed for the program to run
